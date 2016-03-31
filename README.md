@@ -1,3 +1,7 @@
+# MOVED
+This repository was moved to https://github.com/synack/chaoticmarch
+
+
 # CHAOTICMARCH
 _CHAOTICMARCH_ is an iOS App UI automation engine for aiding security testing. It tries to solve the problem of coverage during blackbox testing. It is often the case that a researcher is introduced to a new application and their first action is to "look" around to see what features the App has as well as what web API it uses. Triggering the web API through the UI has the advantage of giving a sample of parameters to fuzz later.
 
